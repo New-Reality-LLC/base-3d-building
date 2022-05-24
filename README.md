@@ -14,12 +14,12 @@ Unity 2020.3.3f
 
 # Test task for 3D designer job opening
 
-### Software requirements:
+### Software requirements
 Unity 2020.3.3f
 
-### Instructions:
+### Instructions
 There is a scene `“Test_scene.unity”` in the directory `"Dark City 2\Demo"`. In the Test_scene.unity there is a building with neon banners. All mesh, materials and textures are located in the folder `"Dark City\Assets\Source"`.
 
-### Task:
+### Task
 You need to optimize the building and the banners for a mobile VR (OS Android). You need to reduce the number of polygons, if possible reduce number of materials, number of small parts or bake texture.
 The main objective here is to optimize the building without significant visual degradation (when zoomed-in). Significant level of details when zoomed-in is important because a VR user can come close to a building.
