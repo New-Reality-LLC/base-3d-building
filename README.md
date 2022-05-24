@@ -18,7 +18,7 @@ Unity 2020.3.3f
 Unity 2020.3.3f
 
 ### Instructions:
-There is a scene `“Test_scene.unity”` in the directory `“Dark City 2\Demo”`. In the Test_scene.unity there is a building with neon banners. All mesh, materials and textures are located in the folder `“Dark City\Assets\Source”`.
+There is a scene `“Test_scene.unity”` in the directory `"Dark City 2\Demo"`. In the Test_scene.unity there is a building with neon banners. All mesh, materials and textures are located in the folder `"Dark City\Assets\Source"`.
 
 ### Task:
 You need to optimize the building and the banners for a mobile VR (OS Android). You need to reduce the number of polygons, if possible reduce number of materials, number of small parts or bake texture.
