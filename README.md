@@ -1,4 +1,4 @@
-# Тестовое задание по 3D В Unity
+# Техническое задание по 3D В Unity
 
 ### Требования
 Unity 2020.3.3f
@@ -12,7 +12,7 @@ Unity 2020.3.3f
 Основная цель - оптимизация здания, без сильного визуального ухудшения (вблизи), так как пользователь в VR сможет подходить близко к зданию.
 
 
-# Test task for 3D designer job opening
+# Technical task for 3D designer job opening
 
 ### Software requirements
 Unity 2020.3.3f
